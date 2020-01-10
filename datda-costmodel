@@ -1,0 +1,57 @@
+customers: [
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+    {
+      title: 'Model Group Master',
+      costmodeltype: 'Transation fee',
+      amount: '12$',
+    },
+  ]
