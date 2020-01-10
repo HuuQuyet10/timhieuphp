@@ -1,0 +1,90 @@
+customers: [
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+    {
+      title: 'Lorem input dolor sit amet',
+      code: 'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s',
+      type: '123456789',
+      discountamount: '22/01/2019',
+      status: 'Active',
+      expireddate: '20/10/2019'
+    },
+  ]
